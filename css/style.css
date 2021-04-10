@@ -1,0 +1,23 @@
+@font-face {
+    font-family: "PlayfairDisplay";
+    src: url(../fonts/PlayfairDisplay-Italic.ttf);
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+.banner {
+    background-image: url(../img/lemon-pie2.png);
+    background-size: cover;
+    height: 343px;
+}
+
+h2,
+h3 {
+    font-family: "PlayfairDisplay", serif;
+}
+
+.fas fa-shopping-basket {
+    color: blue;
+}
